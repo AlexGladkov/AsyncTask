@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Java sandbox</string>
+    <string name="results">Results: [Count]</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Enter state here</string>
+</resources>
